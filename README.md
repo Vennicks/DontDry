@@ -1,1 +1,1 @@
-# DontStopDrying
+# DontDry
